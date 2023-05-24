@@ -10,9 +10,9 @@
 
 Currently learning:
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛️⬛️
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛️
 
- React Native, Course 10 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera. https://www.coursera.org/professional-certificates/meta-ios-developer
+ React Native, Course 11 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera. https://www.coursera.org/professional-certificates/meta-ios-developer
 
 
 <!--
