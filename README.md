@@ -1,7 +1,7 @@
 - I’m Rueben;
 - 📱 Love everything about iOS development and  Apple Products;
 - 🌱 Day by day working on  projects and improving my ios development skills;
-- 📚 Technologies that I am studing: iOS development, Xcode, Swift Language, SwiftUI, Core Data, working with API Requests, MVVM design Pattern, github.
+- 📚 Technologies that I am studing: iOS development, Xcode, Swift Language, SwiftUI,SwiftData, Core Data, working with API Requests, MVVM design Pattern, github.
 
 ### Technologies: 
 
